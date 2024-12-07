@@ -1,0 +1,4 @@
+baseURL = "http://blane-fullmer.github.io/"
+languageCode = "en-us"
+title = "Blane Blog"
+theme = "terminal"
